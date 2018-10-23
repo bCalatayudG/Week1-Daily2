@@ -3,7 +3,7 @@
 Read Me file.
 First assignment, testing Java.
 
-###Problem 1:
+##Problem 1:
 Create a function to print the duplicate in a list of strings.
 ```
 Input:
@@ -14,7 +14,7 @@ Output:
 ```
 ![alt text][Ejercicio1]
 
-###Problem 2: 
+##Problem 2: 
 Create function to check if the string is a palindrome
 ```
 Input:
@@ -26,7 +26,7 @@ Output:
 ```
 ![alt text][Ejercicio2]
 
-###Problem 3: 
+##Problem 3: 
 Create a function that will print “fizz” if the number is divisible by 3, “buzz” if the number is divisible by 5, “fizzbuzz” if the number is divisible by both and the integer.
 You can use a for loop for using the first 20 integers.
 
@@ -38,7 +38,7 @@ Output:
 ```
 ![alt text][Ejercicio3]
 
-###Problem 4: 
+##Problem 4: 
 Create a function to check if the two strings are Anagrams
 ```
 Input:
@@ -48,7 +48,7 @@ Output:
 ```
 ![alt text][Ejercicio4]
 
-###Problem 5: 
+##Problem 5: 
 Print a multiplication table from 1 to 10 using multidimensional array output
 
 	1 2 3 4 5 6 7 8 9 10
